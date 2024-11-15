@@ -1,4 +1,4 @@
-import about from "../../assets/images/sct.jpeg";
+import about from "../../assets/images/mainw.jpeg";
 
 export default function AboutMe() {
   return (
@@ -21,7 +21,7 @@ export default function AboutMe() {
             industry.
           </p>
           <p className="hero--section-description">
-            She started investing in crypto in late 2009. The more I learnt
+            She started investing in crypto in late 1999. The more I learnt
             about the technology that crypto is built on top of (blockchain),
             the more I began to understand what profound impact this new
             technology would have on the world. From my hands on experience

@@ -1,4 +1,4 @@
-import woman from "../../../assets/images/scot.jpeg";
+import woman from "../../../assets/images/main.jpeg";
 import "./Hero.css";
 import { IoCall } from "react-icons/io5";
 import { SiGmail } from "react-icons/si";
@@ -22,10 +22,10 @@ export default function HeroSection() {
             <br />
           </h1>
           <p className="hero--section-description">
-            Evelyn Susanne Scarlett is an Investment Advisor with over 15 years
-            of Experience dealing and investing in stocks and other related
-            financial markets. She is a very professional stock broker who
-            executes financial transactions to registered securities brokers.
+            Evelyn Susanne Scarlett is an investment advisor with over 25 years
+            of experience, dealing and investing in crypto currency and other
+            related financial markets. She is a very professional stock broker
+            who executes financial transactions to registered securities broker.
             {/* I am a crypto trading expert who possess a deep understanding on
             different cryptocurrencies, market dynamics, technical analysis,
             risk management, and trading strategies with over 15years of
