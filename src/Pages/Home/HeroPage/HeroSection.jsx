@@ -22,7 +22,7 @@ export default function HeroSection() {
             <br />
           </h1>
           <p className="hero--section-description">
-            Evelyn Susanne Scarlett is an investment advisor with over 25 years
+            Evelyn Susanne Scarlett is an investment advisor with over 15 years
             of experience, dealing and investing in crypto currency and other
             related financial markets. She is a very professional stock broker
             who executes financial transactions to registered securities broker.
